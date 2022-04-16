@@ -1,6 +1,6 @@
 # Business-News
 
--This project uses Python and Beautiful Soup to scrape 10 popualr new sites for Business News
+-This project uses Python and Beautiful Soup to scrape 10 News sites for Business News
 <br>
 -Stores the data in a Pandas Dataframe
 <br>
